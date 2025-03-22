@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base.html
 title: About The Ladder
 description: Learn about The Ladder's mission, vision, and our innovative approach to achieving the UN Sustainable Development Goals
 ---
