@@ -3,11 +3,6 @@ title: Welcome to The Ladder - AI for Good
 layout: base.html
 ---
 
----
-layout: home
-title: The Ladder - AI powered global goals accelerator for communities
-description: Mobilizing communities to achieve the Sustainable Development Goals through direct action and technology
----
 
 # The Ladder
 ## Local goals, globally
